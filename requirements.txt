@@ -1,0 +1,12 @@
+Click==7.0
+Flask==1.1.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+pkg-resources==0.0.0
+Werkzeug==0.15.4
+python-dotenv==0.10.3
+Flask-SQLAlchemy==2.4.0
+flask-restful==0.3.7
+Flask-Migrate==2.5.2
+psycopg2-binary==2.8.3
